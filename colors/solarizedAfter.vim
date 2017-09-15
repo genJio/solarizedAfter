@@ -242,7 +242,7 @@ let g:colors_name = "solarizedAfter"
 " neutral gray monotone palette component)
 if (has("gui_running") && g:solarized_degrade == 0)
     let s:vmode       = "gui"
-    let s:base03      = "#002b36"
+    let s:base03      = "#282828"
     let s:base02      = "#073642"
     let s:base01      = "#586e75"
     let s:base00      = "#657b83"
